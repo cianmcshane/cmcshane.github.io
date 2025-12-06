@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Cian McShane's CV
 ---
 # Isaac Newton
 Physicist, Mathematician, Cambridge professor.
@@ -27,18 +27,11 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2018-2022`
+__Richland High School__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`September 2024 - now`
+__Brigham Young University-Idaho__
 
 
 
