@@ -4,8 +4,8 @@ title: Cian McShane's CV
 ---
 # Cian McShane
 
-(Email)[cian.mcshane@icloud.com]
-(My Linkedin)[https://www.linkedin.com/in/cian-mcshane-13842a36a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B3RIJ8jb4TMSBAPU7lk5T9A%3D%3D]
+[Email](cian.mcshane@icloud.com)
+[My Linkedin](https://www.linkedin.com)
 
 
 ## Currently
