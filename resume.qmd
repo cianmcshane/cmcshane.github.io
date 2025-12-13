@@ -2,27 +2,15 @@
 layout: cv
 title: Cian McShane's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Cian McShane
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+(Email)[cian.mcshane@icloud.com]
+(My Linkedin)[https://www.linkedin.com/in/cian-mcshane-13842a36a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B3RIJ8jb4TMSBAPU7lk5T9A%3D%3D]
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Studying data science at Brigham Young University-Idaho`
 
 
 ## Education
@@ -35,46 +23,33 @@ __Brigham Young University-Idaho__
 
 
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
 ## Publications
 
+[My Greatest Accomplishment](https://www.youtube.com/watch?v=xvFZjo5PgG0)
+
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2024-2025`
+__Starbucks__, Richland, WA
 
-- Warden
-- Minted coins
+- Prepared and served beverages and food items
+- Provided excellent customer service to ensure a positive experience
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`April 2017 - August 2020`
+__Masters Lawn Care__, Kennewick, WA
 
+- Mowed, edged, and trimmed lawns for residential and commercial clients, ensuring a clean,manicured appearance, Monday through Saturday
+- Applied fertilizers, weed control products, and pesticides to promote healthy lawns and preventunwanted plant growth, and removed weeds
+
+
+## Skills
+
+- Programming & Data Analysis: Python, R, SQL, Excel, Pandas, NumPy
+
+- Statistical Analysis: Hypothesis testing, regression, probability
 
 
 <!-- ### Footer
